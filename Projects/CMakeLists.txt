@@ -1,0 +1,1 @@
+add_subdirectory(W7500x_StdPeriph_Examples)
